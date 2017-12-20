@@ -1,1 +1,4 @@
-D:\wamp64\www\TestWeiXin\.gitignore
+.idea
+composer.lock
+*.log
+thinkphp
